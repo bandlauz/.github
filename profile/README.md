@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![bandla](https://github.com/bandlauz/.github/assets/109890132/8aa4d947-9b71-45ed-b923-bce64d06df08)
+
 <!--
 
 **Here are some ideas to get you started:**
